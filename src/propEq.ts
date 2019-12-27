@@ -8,3 +8,4 @@ const propEq: (
 
 type StringNumberBoolean = string | number | boolean;
 
+export default propEq

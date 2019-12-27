@@ -1,3 +1,3 @@
-export const map = (callback: () => void) => (array: any[]) => array.map(callback)
+export const map = <T> (callback: (T) => void) => (array: any[]) => array.map(callback)
 
 export default map

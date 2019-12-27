@@ -1,4 +1,4 @@
-import prop from "../prop";
+import prop from './prop';
 
 const propEq: (
   value: StringNumberBoolean

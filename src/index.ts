@@ -1,2 +1,6 @@
 export { default as compose } from './compose'
 export { default as pipe } from './pipe'
+export { default as map } from './map'
+export { default as filter } from './filter'
+export { default as prop } from './prop'
+export { default as propEq } from './propEq'

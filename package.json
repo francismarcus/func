@@ -1,6 +1,6 @@
 {
   "name": "@francismarcus/func",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A bunch of functions",
   "main": "dist/index.js",
   "source": "src/index.ts",
